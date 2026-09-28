@@ -12,6 +12,8 @@ I'm a Master of IT in Business (Artificial Intelligence) student at Singapore Ma
 | [Health-insurance early warning](https://github.com/4h4n4-01/health-insurance-early-warning) | Which policies will become unprofitable, and can a model rank them for review? (group project) | Temporal validation, LightGBM, decile lift |
 | [Dengue hotspot forecasting](https://github.com/4h4n4-01/dengue-hotspot-forecasting) | Can 14-day dengue hotspot forecasts stay reliable under a serotype shift? (group project, lead) | XGBoost, drift gates, Airflow, FastAPI |
 | [GPS signal delays](https://github.com/4h4n4-01/gnss-signal-delay-analysis) | What drives clock bias in low-cost GNSS receivers? (NTU × A\*STAR FYP) | Time-series stability metrics, regression |
+| [MRT fault drivers](https://github.com/4h4n4-01/mrt-reliability-analysis) | Does rising ridership cause more rail faults, or is line age the driver? (group project) | Hypothesis testing, regression, anomaly detection |
+| [Credit-rating inference](https://github.com/4h4n4-01/credit-rating-inference) | Which financial behaviours drive credit ratings and loan approval? (pair project) | Assumption checks, Kruskal-Wallis, Mann-Whitney |
 | [Loan default MLOps](https://github.com/4h4n4-01/loan-default-airflow-mlops) | Can a credit model be retrained and monitored on fixed governance rules? | Airflow, PySpark, PSI drift monitoring |
 | [Loan default data pipeline](https://github.com/4h4n4-01/loan-default-data-pipeline) | Leakage-safe feature and label stores | Medallion architecture, Docker |
 | [Twitter bot detection](https://github.com/4h4n4-01/twitter-bot-detection) | Does ensembling beat one well-tuned model? | Feature engineering, stacking, Optuna |

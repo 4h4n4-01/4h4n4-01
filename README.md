@@ -1,6 +1,6 @@
 ### Hi, I'm Ahana
 
-I'm a Master of IT in Business (Artificial Intelligence) student at Singapore Management University, with a B.Eng. in Electrical and Electronics Engineering from NTU. My research interest is **how reliable AI systems are in enterprise decision-making**: when LLM agents can be trusted with real business questions, how to measure that, and how humans should stay in the loop.
+I'm a Master of IT in Business (Artificial Intelligence) student at Singapore Management University, with a B.Eng. in Electrical and Electronics Engineering from NTU.
 
 **Current research: [Horizon](https://github.com/4h4n4-01/horizon)**. A benchmark and agent system for a bank's strategy office: forecasting, impact tracing across data lineage, and calibrated escalation to humans, with ground truth computed by code. Poster submitted to MLSS 2027 (Okinawa). Work in progress.
 
